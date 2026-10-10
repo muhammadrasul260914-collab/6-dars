@@ -1,0 +1,219 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+.header-link{
+    margin-right: 475px;
+    vertical-align: middle;
+}
+.header-list{
+    display: inline-block;
+    vertical-align: middle;
+}
+.header-item{
+    display: inline-block;
+    margin-right: 40px;
+}
+.hero-link{
+    background-color: #458FF6;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: 40px;
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    width: 197px;
+    border-radius: 55px;
+    text-align: center;
+}
+.hero-title{
+    width: 421px;
+    height: 112;
+    padding-top: 183px; 
+}
+.hero-img{
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 86px;
+}
+.hero-text{
+    width: 440px;
+    height: 96px;
+    padding-top: 30px;
+}
+.hero-inner{
+    display: inline-block;
+    vertical-align: middle;
+}
+.service{
+    padding-top: 287px;
+}
+.service-title{
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 21px;
+}
+.service-spn{
+    display: block;
+    width: 56px;
+    height: 2px;
+    border-radius: 5px;
+    background-color: #000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 33px;
+}
+.service-text{
+    text-align: center;
+    color: #7D7987;
+    font-size: 18px;
+    width: 952px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+.body{
+    padding-right: 170px;
+    padding-left: 170px;
+}
+.service-item{
+    width: 380px;
+    padding-top: 68px;
+    padding-right: 58px;
+    padding-bottom: 47px;
+    padding-left: 38px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 20px;
+}
+.service-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px 20px;
+}
+.service-subtitle{
+    margin-top: 23px;
+    margin-bottom: 1px;
+    font-size: 24px;  
+}
+.service-info{
+    color: #7D7987;
+    margin-top: 15px;
+}
+.header{
+    padding-top: 56px;
+}
+.service-link{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 55px;
+    width: 200px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 1px;
+    padding-left: 1px;
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 253px;
+    color: blue;
+    border: 1.4px solid #458FF6;
+    text-align: center;
+}
+.hello-link{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 55px;
+    width: 200px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 1px;
+    padding-left: 1px;
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 253px;
+    color: blue;
+    border: 1.4px solid #458FF6;
+    text-align: center;
+}
+.hello-container{
+    width: 440px;
+    height: 390px;
+    padding-left: 112px;
+    padding-top:36px;
+    padding-bottom: 37px;
+}
+.hello-holder{
+    display: flex;
+}
+.hello-subtitle{
+    width: 434px;
+    height: 112px;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+.hello-img{
+    padding-top: 213;
+}
+.hello-spn{
+    display: block;
+    width: 56px;
+    height: 2px;
+    border-radius: 5px;
+    background-color: #000;
+    margin-bottom: 30px;
+}
+.hello-text{
+    color: #7D7987;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.qizil-holder{
+    display: flex;
+    vertical-align: middle;
+    margin-top: 250px;
+}
+.qizil-container{
+    width: 440px;
+    height: 374px;
+}
+.qizil-subtitle{
+    width: 440px;
+    height: 96px;
+    font-size: 40px;
+}
+.qizil-spn{
+    display: block;
+    width: 58px;
+    height: 2px;
+    border-radius: 6px;
+    background-color: #000;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.qizil-text{
+    width: 440px;
+    height: 120px;
+    color: #7D7987;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.qizil-link{
+    width: 209px;
+    height: 56px;
+    border: 1.4px solid #458FF6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 55px;
+    color: #458FF6;
+}
